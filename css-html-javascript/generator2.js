@@ -1,4 +1,5 @@
 // JavaScript source code
+//my awesome git comment 
 // helpers
 String.prototype.toIdFormat = function () {
     return "#" + this;
