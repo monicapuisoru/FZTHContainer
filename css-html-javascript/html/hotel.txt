@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title> </title>
+
+<script type = "text/javascript">
+
+function afisareHotel()
+{
+var hotel = {
+    id : 123,
+    name :"Astoria",
+             description : "hotel's description",
+             country : "Romania",
+    addedDate :new Date(2013, 6, 21),
+             startPrice : 123.34
+            };
+console.log(hotel.addedDate);
+console.log(hotel.description);
+console.log(hotel.startPrice);
+console.log(hotel.country);
+console.log(hotel.name);
+console.log(hotel.id);
+}
+}
+
+</script>
+</head>
+<body>
+</body>
